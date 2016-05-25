@@ -300,7 +300,9 @@
     @include vendor(transform, rotate(180deg));
 }
 */
-@media (max-width: 768px) {
+
+/* CUSTOM FIX */
+/*@media (max-width: 768px) {
   .grid-stack-item {
     position: relative !important;
     width: auto !important;
@@ -315,4 +317,4 @@
   .grid-stack {
     height: auto !important;
   }
-}
+}*/
